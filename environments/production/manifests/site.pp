@@ -60,6 +60,6 @@ File { backup => false }
 #  }
 #}
 
-node '8ebfb0bb042c.mylabserver.com' {
-  include role::lamp
-}
+#node '8ebfb0bb042c.mylabserver.com' {
+#  include role::lamp
+#}
